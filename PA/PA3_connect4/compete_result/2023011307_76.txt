@@ -1,0 +1,11 @@
+0:
+7	17	0
+2	18446744073709551604	0
+
+Stat:
+ratio of A wins : 0
+ratio of B wins : 1
+ratio of Tie : 0
+
+ratio of (A wins + tie) : 0
+ratio of (B wins + tie) : 1
